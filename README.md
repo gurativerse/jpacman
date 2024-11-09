@@ -1,6 +1,6 @@
 # JPacman
 ![Build Status](https://github.com/gurativerse/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
-![Coverage](https://github.com/badges/jacoco.svg)
+![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
 
 ## About

@@ -1,8 +1,7 @@
 # JPacman
-![Build Status](https://github.com/gurativerse/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
+![Build Status](https://github.com/gurativerse/083_jpacman/actions/workflows/myworkflow.yml/badge.svg) 
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
-![image](https://github.com/user-attachments/assets/f73107a7-6963-4d35-8a76-50388868681e)
 
 ## About
 
